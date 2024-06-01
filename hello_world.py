@@ -1,1 +1,1 @@
-print("introduction to Git")
+print("introduction to Git from the intial repository")
